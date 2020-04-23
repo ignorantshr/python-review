@@ -4,6 +4,7 @@
 
 from clock_deco import clock
 
+
 # N 的阶乘
 @clock
 def factorial(n):
